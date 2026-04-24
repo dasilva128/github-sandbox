@@ -6,6 +6,7 @@ A GitHub Actions workflow that lets you download files into your repository just
 
 ---
 
+
 ## ⚙️ Setup
 
 0. Fork this repo
@@ -45,7 +46,7 @@ Downloads each file and saves it by its original filename.
 
 
 ```
-download: https://github.com/2dust/v2rayNG/releases/download/2.0.18/v2rayNG_2.0.18_arm64-v8a.apk
+download: 
 ```
 
 **Examples:**
