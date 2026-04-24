@@ -26,11 +26,12 @@ You trigger downloads by editing any file directly on GitHub and using a special
 
 1. Open any file in your repository on GitHub (for example, this `README.md`)
 2. Click the **pencil icon** (✏️) at the top right to edit it
-3. Make any small change (add a space, a blank line, anything)
-4. Scroll down to the **Commit changes** section
-5. Select **Commit directly to the `main` branch**
-6. In the commit message box, type one of the commands below
-7. Click **Commit changes**
+3. 
+4. Make any small change (add a space, a blank line, anything)
+5. Scroll down to the **Commit changes** section
+6. Select **Commit directly to the `main` branch**
+7. In the commit message box, type one of the commands below
+8. Click **Commit changes**
 
 The workflow will run automatically and the downloaded files will appear in the `downloads/` folder.
 
